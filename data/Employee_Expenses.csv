@@ -1,0 +1,450 @@
+﻿Employee Name,Purpose,Report Status,Expense Type,Reimbursable Distribution Amount,Payment Date,Accounting Period Name,Concatenated Segments,Account Code,Account Description
+ Izhar Abbas,Communication Allowance Reimbursement,Paid,Other,14000,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Izhar Abbas,BNI Sponsor Meeting in Lahore,Paid,Meals,6000,8/31/2026,26-Aug,11-101-CIC1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Izhar Abbas,Communication Allowance - September,Paid,Other,7000,9/30/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Izhar Abbas,Communication Allowance - August,Paid,Other,7000,9/30/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aakash Ahmed,Communication Allowance,Paid,Internet,4654,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aakash Ahmed,Communication Allowance,Paid,Phone Bill,2346,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aakash Ahmed,Travel Allowance,Paid,Meals,6000,7/31/2026,26-Jul,11-101-CIC1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Aakash Ahmed,Travel Allowance,Paid,Meals,6000,8/31/2026,26-Aug,11-101-CIC1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Aakash Ahmed,Communication Allowance,Paid,Internet,4654,9/16/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aakash Ahmed,Communication Allowance,Paid,Phone Bill,2346,9/16/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aakash Ahmed,Communication Allowance,Ready for payment,Internet,5797,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aakash Ahmed,Communication Allowance,Ready for payment,Phone Bill,1203,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Danyal Ahmed,,Paid,Staff Training,750521,9/16/2026,26-Sep,11-301-COM1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Hammad Akram,Reimbursement of Communication Allownce (Internet Bill),Rejected,Internet,4365,,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hammad Akram,Reimbursement for Internet Bill,Rejected,Internet,4160,,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hammad Akram,Reimbursement for Internet Bill,Pending manager approval,Internet,4160,,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hammad Akram,Reimbursement for Communication Allownce,Paid,Phone Bill,2000,7/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hammad Akram,Reimbursement of Travel allownce,Paid,Meals,6000,8/31/2026,26-Jul,11-101-CIC1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Faiz Alam,Communication Reimbursement for July 2026,Paid,Other,3500,8/31/2026,26-Aug,11-701-ADM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Faiz Alam,Communication Reimbursement for July 2026,Paid,Other,3500,8/31/2026,26-Aug,11-701-ADM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Faiz Alam,Communication Reimbursement for Aug 2026,Ready for payment,Internet,3120,,26-Oct,11-701-ADM1-H106003-201-ISB-11-310-ID1-0000-00,H106003,Communication reimbursement
+ Faiz Alam,Communication Reimbursement for Aug 2026,Ready for payment,Internet,3120,,26-Oct,11-701-ADM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Faiz Alam,Communication reimbursement for Sep 2026,Ready for payment,Internet,3249.5,,26-Oct,11-701-ADM1-H106003-201-ISB-11-310-ID1-0000-00,H106003,Communication reimbursement
+ Faiz Alam,Communication reimbursement for Sep 2026,Ready for payment,Internet,3249.5,,26-Oct,11-701-ADM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Paid,Internet,3000,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Paid,Phone Bill,1500,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Paid,Internet,3000,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Paid,Phone Bill,1500,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Staff Training,Paid,Staff Training,111600,8/31/2026,26-Jul,11-000-0000-H215003-401-ISB-11-511-000-0000-00,H215003,Staff training - Payable
+ Muhammad Alam,Communication Allowance,Paid,Internet,3000,9/16/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Paid,Phone Bill,1500,9/30/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Ready for payment,Phone Bill,1500,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Alam,Communication Allowance,Ready for payment,Internet,3000,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Communication Bill - July 2026,Paid,Internet,3676,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Communication Bill - July 2026,Paid,Phone Bill,7228.04,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Communication - Aug 2026,Paid,Internet,3676,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Communication - Aug 2026,Paid,Phone Bill,3359,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Wellness Allowance for Two Months (Jul & Aug 26),Paid,Wellness Allowance,19800,8/31/2026,26-Aug,11-201-DFS1-h106008-201-ISB-11-311-DP1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Taimoor Ali,Travel for Identity Conference 28 and 29 July 2026,Paid,Cleaning Material,778.75,8/31/2026,26-Aug,11-201-DFS1-D107025-201-ISB-11-310-DT1-0000-00,D107025,"W4: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Taimoor Ali,Travel for Identity Conference 28 and 29 July 2026,Paid,Meals,12000,8/31/2026,26-Aug,11-201-DFS1-D107025-201-ISB-11-310-DT1-0000-00,D107025,"W4: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Taimoor Ali,Gates Foundation London Workshop for Pakistan - VISA Fee Reimbursement,Paid,Air ticket,61449.73,9/16/2026,26-Sep,11-201-DFS1-D107025-201-ISB-11-310-DT1-0000-00,D107025,"W4: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Taimoor Ali,Communication Bill - Sep 2026,Paid,Internet,3676,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Communication Bill - Sep 2026,Paid,Phone Bill,3534.16,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Comms Bill - Oct 2026,Ready for payment,Internet,3676,,26-Oct,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Taimoor Ali,Comms Bill - Oct 2026,Ready for payment,Phone Bill,3966.59,,26-Oct,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,Communication Allowance - July 2026,Paid,Internet,2250,8/31/2026,26-Jul,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,Communication Allowance - July 2026,Paid,Internet,2250,8/31/2026,26-Jul,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,Personal Training - Claude 2,Paid,Staff Training,3003,8/31/2026,26-Jul,11-701-HRM1-H215003-201-ISB-11-311-ID1-0000-00,H215003,Staff training - Payable
+ Zaheer Alishba,Personal Training - Claude 2,Paid,Staff Training,3003,8/31/2026,26-Jul,11-701-HRM1-H215003-401-ISB-11-511-000-0000-00,H215003,Staff training - Payable
+ Zaheer Alishba,Personal Training - Claude Annual (3rd),Paid,Staff Training,30162.73,8/31/2026,26-Aug,11-701-HRM1-H215003-201-ISB-11-311-ID1-0000-00,H215003,Staff training - Payable
+ Zaheer Alishba,Personal Training - Claude Annual (3rd),Paid,Staff Training,30162.74,8/31/2026,26-Aug,11-701-HRM1-H215003-401-ISB-11-511-000-0000-00,H215003,Staff training - Payable
+ Zaheer Alishba,Internet - August 2026,Paid,Internet,2250,8/31/2026,26-Aug,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,Internet - August 2026,Paid,Internet,2250,8/31/2026,26-Aug,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,Fuel Reimbursement (August 2026),Paid,Vehicle Operations,4292.5,9/16/2026,26-Sep,11-701-HRM1-H108002-201-ISB-11-310-ID1-0000-00,H108002,Vehicle Operations
+ Zaheer Alishba,Fuel Reimbursement (August 2026),Paid,Vehicle Operations,4292.5,9/16/2026,26-Sep,11-701-HRM1-H108002-401-ISB-11-511-000-0000-00,H108002,Vehicle Operations
+ Zaheer Alishba,Communication Allowance - Oct 2026,Ready for payment,Internet,2250,,26-Oct,11-701-HRM1-H106003-201-ISB-11-310-000-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,Communication Allowance - Oct 2026,Ready for payment,Internet,2250,,26-Oct,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zaheer Alishba,TRF - Oct 2026,Ready for payment,Meals,3000,,26-Oct,11-701-HRM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ Zaheer Alishba,TRF - Oct 2026,Ready for payment,Meals,3000,,26-Oct,11-701-HRM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Zohaib Amin,Communication (Internet + Phone) Jul 2026,Paid,Internet,3298.2,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Jul 2026,Paid,Internet,2198.8,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Jul 2026,Paid,Phone Bill,1920,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Jul 2026,Paid,Phone Bill,1280,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Aug 2026,Paid,Internet,3298.2,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Aug 2026,Paid,Internet,2198.8,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Aug 2026,Paid,Phone Bill,1920,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Aug 2026,Paid,Phone Bill,1280,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Sep 2026,Paid,Internet,3298.2,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Sep 2026,Paid,Internet,2198.8,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Sep 2026,Paid,Phone Bill,1920.6,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Sep 2026,Paid,Phone Bill,1280.4,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Wellness Allowance (against accrued wellness allowance),Ready for payment,Wellness Allowance,8895,,26-Oct,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Wellness Allowance (against accrued wellness allowance),Ready for payment,Wellness Allowance,5930,,26-Oct,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Wellness Allowance (against accrued wellness allowance),Ready for payment,Wellness Allowance,10710,,26-Oct,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Wellness Allowance (against accrued wellness allowance),Ready for payment,Wellness Allowance,7140,,26-Oct,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Oct 2026,Ready for payment,Internet,3298.2,,26-Oct,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Oct 2026,Ready for payment,Internet,2198.8,,26-Oct,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Oct 2026,Ready for payment,Phone Bill,1920,,26-Oct,11-201-DFS1-H106003-201-ISB-11-711-DP1-0000-00,H106003,Communication reimbursement
+ Zohaib Amin,Communication (Internet + Phone) Oct 2026,Ready for payment,Phone Bill,1280,,26-Oct,11-201-DFS1-H106003-201-ISB-11-800-DP1-0000-00,H106003,Communication reimbursement
+ Umer Ashfaq,Fuel Reimbursement,Paid,Vehicle Operations,10320,9/16/2026,26-Sep,11-201-DFS1-H106007-201-ISB-11-311-DP1-0000-00,H106007,Fuel reimbursement
+ Hasnat Ashraf,Team Lunch (DI RMC) Jul 2026,Paid,Meeting & Conferences,6720.5,8/31/2026,26-Jul,11-601-MEL1-H115001-201-ISB-11-311-ID1-0000-00,H115001,Meeting & Conferences
+ Hasnat Ashraf,Team Lunch (DI RMC) Jul 2026,Paid,Meeting & Conferences,6720.5,8/31/2026,26-Jul,11-601-MEL1-H115001-401-ISB-11-511-000-0000-00,H115001,Meeting & Conferences
+ Hasnat Ashraf,Communication Allowance July 2026,Paid,Internet,5000,7/31/2026,26-Jul,11-601-MEL1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,Communication Allowance July 2026,Paid,Internet,5000,7/31/2026,26-Jul,11-601-MEL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,Team Lunch (DI RMC) Sep 2026,Paid,Meeting & Conferences,16270,9/16/2026,26-Sep,11-601-MEL1-H115001-201-ISB-11-311-ID1-0000-00,H115001,Meeting & Conferences
+ Hasnat Ashraf,Team Lunch (DI RMC) Sep 2026,Paid,Meeting & Conferences,16270,9/16/2026,26-Sep,11-601-MEL1-H115001-401-ISB-11-511-000-0000-00,H115001,Meeting & Conferences
+ Hasnat Ashraf,Communication Allowance August 2026,Paid,Internet,5000,9/16/2026,26-Aug,11-601-MEL1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,Communication Allowance August 2026,Paid,Internet,5000,9/16/2026,26-Aug,11-601-MEL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,GCF Regional Dialogue with East and South Asia,Ready for payment,Accommodation,251277,,26-Sep,11-601-MEL1-H104003-401-ISB-11-000-000-0000-00,H104003,International Travel
+ Hasnat Ashraf,GCF Regional Dialogue with East and South Asia,Ready for payment,Air ticket,204099.75,,26-Sep,11-601-MEL1-H104003-401-ISB-11-000-000-0000-00,H104003,International Travel
+ Hasnat Ashraf,GCF Regional Dialogue with East and South Asia,Ready for payment,Meals,164340,,26-Sep,11-601-MEL1-H104003-401-ISB-11-000-000-0000-00,H104003,International Travel
+ Hasnat Ashraf,GCF Regional Dialogue with East and South Asia,Ready for payment,Road Transportation,12443.21,,26-Sep,11-601-MEL1-H104003-401-ISB-11-000-000-0000-00,H104003,International Travel
+ Hasnat Ashraf,Reimbursement for SME Finance Forum (Training),Ready for payment,Staff Training,194044,,26-Sep,11-000-0000-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Hasnat Ashraf,Communication Allowance September 2026,Ready for payment,Internet,1650,,26-Sep,11-601-MEL1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,Communication Allowance September 2026,Ready for payment,Internet,1650,,26-Sep,11-601-MEL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,Communication Allowance September 2026,Ready for payment,Phone Bill,3350,,26-Sep,11-601-MEL1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasnat Ashraf,Communication Allowance September 2026,Ready for payment,Phone Bill,3350,,26-Sep,11-601-MEL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Danyal Awan,Travel Allowance,Paid,Meals,78176,8/31/2026,26-Jul,11-701-INA1-H104001-201-ISB-11-311-000-0000-00,H104001,Travel
+ Danyal Awan,Travel Allowance,Paid,Meals,145184,8/31/2026,26-Jul,11-701-INA1-H104001-401-ISB-11-511-000-0000-00,H104001,Travel
+ Saad Ayub,Wellness Allowance - July 2026,Paid,Wellness Allowance,12000,8/31/2026,26-Aug,11-701-ADM1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Saad Ayub,Wellness Allowance - August 2026,Paid,Wellness Allowance,12000,9/16/2026,26-Sep,11-701-CIC1-h106008-401-ISB-11-000-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Itrat Batool,Travel_Expense_Reimbursement,Paid,Meals,12000,8/31/2026,26-Aug,11-101-CIC1-H104001-401-ISB-11-511-000-0000-00,H104001,Travel
+ Syeeda Bukhary,Staff Training,Paid,Staff Training,69105.37,9/30/2026,26-Sep,11-101-CIC1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Naureen Chaudhry,Wellness Allowance October 2026,Ready for payment,Wellness Allowance,12000,,26-Oct,11-601-MEL1-h106008-201-ISB-11-311-DP1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Naureen Chaudhry,Communication Allowance July to Oct 2026,Ready for payment,Internet,18412,,26-Oct,11-601-MEL1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Naureen Chaudhry,Communication Allowance July to Oct 2026,Ready for payment,Phone Bill,8997,,26-Oct,11-601-MEL1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Shahzeb Faisal,Communication Allowance - July 2026,Paid,Internet,3633,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Shahzeb Faisal,Communication Allowance - July 2026,Paid,Phone Bill,867,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Shahzeb Faisal,Communication Allowance - August 2026,Paid,Internet,3633,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Shahzeb Faisal,Communication Allowance - August 2026,Paid,Phone Bill,867,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Shahzeb Faisal,Communication Allowance - September 2026,Ready for payment,Internet,3633,,26-Oct,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Shahzeb Faisal,Communication Allowance - September 2026,Ready for payment,Phone Bill,867,,26-Oct,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication Allowance,Paid,Internet,1575,8/31/2026,26-Jul,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication Allowance,Paid,Internet,2925,8/31/2026,26-Jul,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication Allowance,Paid,Internet,1575,8/31/2026,26-Aug,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication Allowance,Paid,Internet,2925,8/31/2026,26-Aug,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication Allowance,Paid,Internet,1575,9/16/2026,26-Sep,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication Allowance,Paid,Internet,2925,9/16/2026,26-Sep,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication allowance,Ready for payment,Internet,1575,,26-Oct,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Unzeela Faisal,Communication allowance,Ready for payment,Internet,2925,,26-Oct,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Yasir Farhan ,Laptop Bag Reimbursement,Ready for payment,Office Supplies,2500,,26-Oct,11-701-COM1-H116004-201-ISB-11-310-DO1-0000-00,H116004,Office Supplies
+ Yasir Farhan ,Laptop Bag Reimbursement,Ready for payment,Office Supplies,2500,,26-Oct,11-701-COM1-H116004-401-ISB-11-511-000-0000-00,H116004,Office Supplies
+ Yasir Farhan ,Expense Reimbursement,Ready for payment,Meeting & Conferences,1057.5,,26-Oct,11-701-COM1-H115001-201-ISB-11-310-DO1-0000-00,H115001,Meeting & Conferences
+ Yasir Farhan ,Expense Reimbursement,Ready for payment,Meeting & Conferences,1057.5,,26-Oct,11-701-COM1-H115001-401-ISB-11-511-000-0000-00,H115001,Meeting & Conferences
+ Miqdad Haider,Communication Allowance,Paid,Internet,7000,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Miqdad Haider,Communication Allowance,Paid,Internet,7000,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Miqdad Haider,Communication Allowance,Paid,Internet,7000,9/16/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Miqdad Haider,Communciation Allowance,Ready for payment,Internet,7000,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Haider,Communication allowance - August 2026,Paid,Phone Bill,4500,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Muhammad Haider,Communication Allowance - September 2026,Paid,Phone Bill,4447,8/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Muhammad Haider,Communication Allowance - October 2026,Pending manager approval,Phone Bill,4400,,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Zeeshan Haider,Daily Subsistence Allowance,Paid,Meals,6000,8/31/2026,26-Jul,11-401-ICF1-H119003-401-ISB-11-511-DP1-0000-00,H119003,Perdiem
+ Zeeshan Haider,Communication Allowance -- June-26,Paid,Internet,4500,8/31/2026,26-Jul,11-401-ICF1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zeeshan Haider,Communication Allowance -- July-26,Paid,Internet,4500,8/31/2026,26-Jul,11-401-ICF1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zeeshan Haider,Daily Subsistence Allowance,Paid,Meals,18000,8/31/2026,26-Jul,11-401-ICF1-H119003-401-ISB-11-511-DP1-0000-00,H119003,Perdiem
+ Zeeshan Haider,Communication Allowance -- August-26,Paid,Internet,4500,9/30/2026,26-Sep,11-401-ICF1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zeeshan Haider,Communication Allowance -- Sept-26,Paid,Internet,4500,9/30/2026,26-Sep,11-401-ICF1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Zeeshan Haider,Daily Subsistence Allowance,Ready for payment,Meals,18000,,26-Oct,11-401-ICF1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Zeeshan Haider,Communication Allowance -- Oct-26,Ready for payment,Internet,4500,,26-Oct,11-401-ICF1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aneeba Hamid,Communication Allowance,Ready for payment,Internet,11250,,26-Oct,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Aneeba Hamid,Communication Allowance,Ready for payment,Internet,11250,,26-Oct,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Khalid Hussain,Expense claim July - September,Paid,Internet,2791.95,9/30/2026,26-Sep,11-701-ADM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Khalid Hussain,Expense claim July - September,Paid,Internet,5185.05,9/30/2026,26-Sep,11-701-ADM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Khalid Hussain,Expense claim July - September,Paid,Phone Bill,1890,9/30/2026,26-Sep,11-701-ADM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Khalid Hussain,Expense claim July - September,Paid,Phone Bill,3510,9/30/2026,26-Sep,11-701-ADM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Lalarukh Iqbal,Communication Allowance,Paid,Other,3496.49,8/31/2026,26-Aug,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Lalarukh Iqbal,Communication Allowance,Paid,Other,6493.48,8/31/2026,26-Aug,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Lalarukh Iqbal,Communication Claim,Paid,Other,3500,8/31/2026,26-Aug,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Lalarukh Iqbal,Communication Claim,Paid,Other,6500,8/31/2026,26-Aug,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Sana Jahan,Staff Training (University 2nd Semester Fee),Paid,Staff Training,117300,9/16/2026,26-Sep,11-701-ADM1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Sana Jahan,Per Diem Claim,Ready for payment,Meals,3000,,26-Oct,11-701-ADM1-H104001-201-ISB-11-311-DT1-0000-00,H104001,Travel
+ Sana Jahan,Per Diem Claim,Ready for payment,Meals,3000,,26-Oct,11-701-ADM1-H104001-401-ISB-11-511-000-0000-00,H104001,Travel
+ Ayesha Jamil,Communication Allowence,Paid,Internet,3329,8/31/2026,26-Aug,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Ayesha Jamil,Communication Allowence,Paid,Internet,3329,8/31/2026,26-Aug,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Ahmed Javed,Communication Allowance,Paid,Internet,1575,8/31/2026,26-Jul,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Ahmed Javed,Communication Allowance,Paid,Internet,2925,8/31/2026,26-Jul,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Ahmed Javed,Travel to Lahore for PFSL,Paid,Meals,6300,8/31/2026,26-Jul,11-701-RSK1-H104001-201-ISB-11-311-ID1-0000-00,H104001,Travel
+ Ahmed Javed,Travel to Lahore for PFSL,Paid,Meals,11700,8/31/2026,26-Jul,11-701-RSK1-H104001-401-ISB-11-511-000-0000-00,H104001,Travel
+ Omer Javed,Communication Allowance,Paid,Internet,2125.5,8/31/2026,26-Jul,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Internet,2125.5,8/31/2026,26-Jul,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Phone Bill,124.5,8/31/2026,26-Jul,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Phone Bill,124.5,8/31/2026,26-Jul,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Internet,2125.5,8/31/2026,26-Aug,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Internet,2125.5,8/31/2026,26-Aug,11-701-HRM1-H106003-401-ISB-11-511-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Phone Bill,124.5,8/31/2026,26-Aug,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Phone Bill,124.5,8/31/2026,26-Aug,11-701-HRM1-H106003-401-ISB-11-511-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Internet,2125.5,9/16/2026,26-Sep,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Internet,2125.5,9/16/2026,26-Sep,11-701-HRM1-H106003-401-ISB-11-511-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Phone Bill,124.5,9/16/2026,26-Sep,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Paid,Phone Bill,124.5,9/16/2026,26-Sep,11-701-HRM1-H106003-401-ISB-11-511-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Ready for payment,Internet,2125.5,,26-Oct,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Ready for payment,Internet,2125.5,,26-Oct,11-701-HRM1-H106003-401-ISB-11-511-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Ready for payment,Phone Bill,124.5,,26-Oct,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Communication Allowance,Ready for payment,Phone Bill,124.5,,26-Oct,11-701-HRM1-H106003-401-ISB-11-511-ID1-0000-00,H106003,Communication reimbursement
+ Omer Javed,Staff Training,Ready for payment,Staff Training,5899.92,,26-Oct,11-701-0000-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Mehdi Jehangir,Reimbursement of Professional Development Application Form,Paid,Staff Training,118364,8/31/2026,26-Aug,11-000-0000-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Mehdi Jehangir,Monthly Mobile Bill for July,Paid,Phone Bill,4500,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Mehdi Jehangir,Mobile Bill for the Month of September,Ready for payment,Phone Bill,4500,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Ahmed Kamal,Wellness Reimbursement July 2026,Paid,Meeting & Conferences,10000,8/31/2026,26-Jul,11-201-DFS1-h106008-201-ISB-11-311-DP1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Ahmed Kamal,Communication Reimbursement - June 2026,Paid,Internet,5750,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Ahmed Kamal,Communication Reimbursement - June 2026,Paid,Phone Bill,4250,8/31/2026,26-Jul,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Ahmed Kamal,Staff Training Expenses - Wharton Leadership and Management Certificate Program,Paid,Staff Training,1070117,,26-Aug,11-201-DFS1-H123005-201-ISB-11-311-DP1-0000-00,H123005,Staff Training
+ Ahmed Kamal,Communication Reimbursement - July 2026,Paid,Internet,5760,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Ahmed Kamal,Communication Reimbursement - July 2026,Paid,Phone Bill,4240,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Jawad Khalid,Phone  bill,Paid,Phone Bill,2997,8/31/2026,26-Jul,11-401-ICF1-H106003-401-ISB-11-511-DP1-0000-00,H106003,Communication reimbursement
+ Jawad Khalid,Travel Expense,Paid,Meals,18000,7/31/2026,26-Jul,11-401-ICF1-H119003-401-ISB-11-511-DP1-0000-00,H119003,Perdiem
+ Jawad Khalid,Travel Reimbursement,Paid,Road Transportation,3745,8/31/2026,26-Jul,11-401-ICF1-H104001-401-ISB-11-511-DP1-0000-00,H104001,Travel
+ Jawad Khalid,Phone Bill,Pending manager approval,Phone Bill,1600,,26-Sep,11-401-ICF1-H106003-401-ISB-11-511-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Travel Per Diem - Karachi Travel 26 to 28th July 2026,Paid,Meals,18000,7/31/2026,26-Aug,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Waseem Malik,Communication Allowance - July 2026,Paid,Internet,4040,7/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Communication Allowance - July 2026,Paid,Other,1375,7/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Communication Allowance - July 2026,Paid,Phone Bill,4585,7/31/2026,26-Aug,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Per Diem - Travel Karachi 26-28th Aug 2026,Paid,Meals,18000,9/16/2026,26-Sep,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Waseem Malik,Communication Allowance - Aug 2026,Paid,Internet,4954,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Communication Allowance - Aug 2026,Paid,Other,3671,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Communication Allowance - Aug 2026,Paid,Phone Bill,1375,9/16/2026,26-Sep,11-201-DFS1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Waseem Malik,Visa Fee - Expense Claim,Paid,Air ticket,61041,9/16/2026,26-Sep,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Waseem Malik,Per Diem Travel to Karachi 15 to 17th Sept 2026,Ready for payment,Meals,18000,,26-Sep,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Waseem Malik,International Travel - Gates Foundation Engagement UK Trip (Sept 2026),Partially paid,Meals,218776,,26-Oct,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Waseem Malik,International Trip- Gates Foundation Workshop UK Sept 2026,Ready for payment,Road Transportation,50356,,26-Oct,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Adeeb Mirza,Communication reimbursement CFO,Paid,Internet,2500,8/31/2026,26-Jul,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication reimbursement CFO,Paid,Internet,2500,8/31/2026,26-Jul,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication reimbursement CFO,Paid,Phone Bill,3500,8/31/2026,26-Jul,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication reimbursement CFO,Paid,Phone Bill,3500,8/31/2026,26-Jul,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Allowance,Paid,Internet,3167,9/16/2026,26-Sep,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Allowance,Paid,Internet,3167,9/16/2026,26-Sep,11-701-FIN1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Allowance,Paid,Phone Bill,2833,9/16/2026,26-Sep,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Allowance,Paid,Phone Bill,2833,9/16/2026,26-Sep,11-701-FIN1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Training cost,Paid,Staff Training,47600,9/30/2026,26-Oct,11-701-FIN1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Adeeb Mirza,Communication allowance,Ready for payment,Internet,3167,,26-Oct,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication allowance,Ready for payment,Internet,3167,,26-Oct,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication allowance,Ready for payment,Phone Bill,2833,,26-Oct,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication allowance,Ready for payment,Phone Bill,2833,,26-Oct,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Reimbursement,Pending expense auditor approval,Internet,3167,,26-Oct,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Reimbursement,Pending expense auditor approval,Internet,3167,,26-Oct,11-701-FIN1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Reimbursement,Pending expense auditor approval,Phone Bill,2833,,26-Oct,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Adeeb Mirza,Communication Reimbursement,Pending expense auditor approval,Phone Bill,2833,,26-Oct,11-701-FIN1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Aaila Mujeeb,Communication Allowance,Paid,Internet,2000,9/30/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aaila Mujeeb,Communication Allowance,Paid,Phone Bill,6000,9/30/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Aaila Mujeeb,Lunch for IC Meeting,Paid,Meeting & Conferences,29483,9/16/2026,26-Sep,11-101-CIC1-H115001-401-ISB-11-511-000-0000-00,H115001,Meeting & Conferences
+ Aaila Mujeeb,Communication Allowance,Pending expense auditor approval,Internet,5000,,26-Oct,11-101-CIC1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Aaila Mujeeb,Communication Allowance,Pending expense auditor approval,Phone Bill,4000,,26-Oct,11-101-CIC1-H106003-401-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Sharjeel Murtaza,LUMS REDC Program Fee Reimbursement,Paid,Staff Training,286171,8/31/2026,26-Jul,11-201-DFS1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Sharjeel Murtaza,LUMS REDC Training Program Expenses,Paid,Staff Training,36000,9/16/2026,26-Sep,11-201-DFS1-H119003-201-ISB-11-311-DP1-0000-00,H119003,Perdiem
+ Sharjeel Murtaza,LUMS REDC Training Program Expenses,Paid,Staff Training,23998.54,9/16/2026,26-Sep,11-201-DFS1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Sharjeel Murtaza,London Gates Foundation Convening Sep 26,Pending expense auditor approval,Air ticket,7862.15,,26-Oct,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Sharjeel Murtaza,London Gates Foundation Convening Sep 26,Pending expense auditor approval,Meals,225212,,26-Oct,11-201-DFS1-H119003-201-ISB-11-310-DT1-0000-00,H119003,Perdiem
+ Sharjeel Murtaza,London Gates Foundation Convening Sep 26,Pending expense auditor approval,Meeting & Conferences,35759.25,,26-Oct,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Sharjeel Murtaza,London Gates Foundation Convening Sep 26,Pending expense auditor approval,Road Transportation,81372,,26-Oct,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Nadia,Mobile Bill,Paid,Phone Bill,1575,8/31/2026,26-Jul,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Nadia,Mobile Bill,Paid,Phone Bill,2925,8/31/2026,26-Jul,11-701-PRC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadia,Mobile bill,Paid,Phone Bill,1575,9/30/2026,26-Jul,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Nadia,Mobile bill,Paid,Phone Bill,2925,9/30/2026,26-Jul,11-701-PRC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadia,mobile bill Oct,Rejected,Phone Bill,4500,,26-Jul,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Nadia,Mobile Bill October,Rejected,Phone Bill,1575,,26-Jul,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Nadia,Mobile Bill October,Rejected,Phone Bill,2925,,26-Jul,11-701-PRC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Communication allowance,Paid,Internet,3328.15,8/31/2026,26-Jul,11-701-CSL1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Communication allowance,Paid,Internet,6180.85,8/31/2026,26-Jul,11-701-CSL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Communication allowance,Paid,Internet,3328.15,8/31/2026,26-Aug,11-701-CSL1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Communication allowance,Paid,Internet,6180.85,8/31/2026,26-Aug,11-701-CSL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Wellness Allowance,Paid,Wellness Allowance,5250,8/31/2026,26-Aug,11-701-CSL1-h106008-201-ISB-11-311-ID1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Amir Naeem,Wellness Allowance,Paid,Wellness Allowance,9750,8/31/2026,26-Aug,11-701-CSL1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Amir Naeem,Staff training,Paid,Staff Training,17000,9/16/2026,26-Sep,11-701-CSL1-H215003-401-ISB-11-511-000-0000-00,H215003,Staff training - Payable
+ Amir Naeem,Wellness Allowance,Paid,Wellness Allowance,5250,9/16/2026,26-Sep,11-701-CSL1-h106008-201-ISB-11-311-ID1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Amir Naeem,Wellness Allowance,Paid,Wellness Allowance,9750,9/16/2026,26-Sep,11-701-CSL1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Amir Naeem,Communication Allowance,Paid,Internet,9509,9/16/2026,26-Sep,11-701-CSL1-H106003-101-ISB-11-211-000-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Communication allowance,Ready for payment,Internet,3328.15,,26-Oct,11-701-CSL1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Communication allowance,Ready for payment,Internet,6180.85,,26-Oct,11-701-CSL1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Amir Naeem,Wellness Allowance,Pending expense auditor approval,Wellness Allowance,5250,,26-Oct,11-701-CSL1-h106008-201-ISB-11-311-ID1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Amir Naeem,Wellness Allowance,Pending expense auditor approval,Wellness Allowance,9750,,26-Oct,11-701-CSL1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Saad Qaiser,Communication reimbursement - Q1 2026,Paid,Internet,6750,9/16/2026,26-Sep,11-701-FIN1-H106003-201-ISB-11-310-ID1-0000-00,H106003,Communication reimbursement
+ Saad Qaiser,Communication reimbursement - Q1 2026,Paid,Internet,6750,9/16/2026,26-Sep,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Waqas Rahman,Wellness allowance Reimbursement - Jul 26,Paid,Wellness Allowance,6000,8/31/2026,26-Jul,11-201-FIN1-h106008-201-ISB-11-311-ID1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Waqas Rahman,Wellness allowance Reimbursement - Jul 26,Paid,Wellness Allowance,6000,8/31/2026,26-Jul,11-701-FIN1-h106008-401-ISB-11-310-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Waqas Rahman,Comms Reimbursement - Jul Aug,Paid,Internet,4590,8/31/2026,26-Jul,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Waqas Rahman,Comms Reimbursement - Jul Aug,Paid,Internet,4590,8/31/2026,26-Jul,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Waqas Rahman,Training Expense,Paid,Staff Training,33600,8/31/2026,26-Jul,11-701-FIN1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Waqas Rahman,Reimbursement of expenses,Paid,Internet,3385,9/30/2026,26-Oct,11-701-FIN1-H106003-201-ISB-11-310-ID1-0000-00,H106003,Communication reimbursement
+ Waqas Rahman,Reimbursement of expenses,Paid,Internet,3385,9/30/2026,26-Oct,11-701-FIN1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Waqas Rahman,Reimbursement of expenses,Paid,Staff Training,55600,9/30/2026,26-Oct,11-701-FIN1-H215003-401-ISB-11-511-ID1-0000-00,H215003,Staff training - Payable
+ Waqas Rahman,Reimbursement of expenses,Paid,Wellness Allowance,8750,9/30/2026,26-Oct,11-701-FIN1-h106008-201-ISB-11-310-ID1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Waqas Rahman,Reimbursement of expenses,Paid,Wellness Allowance,8750,9/30/2026,26-Oct,11-701-FIN1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Muhammad Rao,Reimbursement of Communication allowance,Paid,Internet,4500,8/31/2026,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Rao,Reimbursement of communication Bill,Paid,Internet,4500,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Rao,Reimbursement of Communication bill,Ready for payment,Phone Bill,4000,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Rao,Reimbursement of Internet Bill,Ready for payment,Internet,4500,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasaan Raza,[Buna] Int'l Travel Reimbursement from 01 Jul '25 to 12 Jun '26,Paid,Air ticket,42534.54,9/30/2026,26-Aug,11-201-DFS1-D107018-201-ISB-11-310-DT1-0000-00,D107018,"W1: Technical Advisory, Industry/Int'l Expert Engagement, Learning/Networking Events"
+ Hasaan Raza,Staff training reimbursement (HBS High Potentials Leadership Program),Paid,Staff Training,2621836,9/30/2026,26-Aug,11-000-DFS1-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ KRN STAFF,Hamza Shahid Travel Claim,Paid,Meals,6300,8/31/2026,26-Aug,11-701-INA1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Hamza Shahid Travel Claim,Paid,Meals,11700,8/31/2026,26-Aug,11-701-INA1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Accommodation,3000,8/31/2026,26-Aug,11-701-ADM1-H119001-201-ISB-11-311-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Accommodation,3000,8/31/2026,26-Aug,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Meals,6000,8/31/2026,26-Aug,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Meals,6000,8/31/2026,26-Aug,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Paid,Accommodation,1000,8/31/2026,26-Aug,11-701-ADM1-H119001-201-ISB-11-311-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Wajid Travel Claim,Paid,Accommodation,1000,8/31/2026,26-Aug,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Wajid Travel Claim,Paid,Meals,2000,8/31/2026,26-Aug,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Paid,Meals,2000,8/31/2026,26-Aug,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Accommodation,1000,8/31/2026,26-Aug,11-701-ADM1-H119001-201-ISB-11-311-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Accommodation,1000,8/31/2026,26-Aug,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Meals,4000,8/31/2026,26-Aug,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Meals,4000,8/31/2026,26-Aug,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Guest Speaker Fuel Reimbursement (Faisal Bari Cheema),Paid,Meeting & Conferences,12000,9/16/2026,26-Aug,11-301-KNM1-K103070-201-ISB-11-311-DO1-0000-00,K103070,Feasibility Study for an E-invoicing platform in Pakistan
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Meals,2000,9/16/2026,26-Sep,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Meals,2000,9/16/2026,26-Sep,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Accommodation,1000,9/16/2026,26-Sep,11-701-ADM1-H119001-201-ISB-11-310-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Accommodation,1000,9/16/2026,26-Sep,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Meals,4000,9/16/2026,26-Sep,11-701-ADM1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Meals,4000,9/16/2026,26-Sep,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Paid,Accommodation,6000,9/16/2026,26-Sep,11-701-ADM1-H119001-301-ISB-11-211-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Wajid Travel Claim,Paid,Meals,16000,9/16/2026,26-Sep,11-701-ADM1-H119003-301-ISB-11-211-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,CEO Travel Claim,Paid,Accommodation,10000,9/16/2026,26-Sep,11-701-CEO1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,CEO Travel Claim,Paid,Meals,18000,9/16/2026,26-Sep,11-701-CEO1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Accommodation,2000,9/16/2026,26-Sep,11-701-ADM1-H119001-201-ISB-11-311-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Accommodation,2000,9/16/2026,26-Sep,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Meals,6000,9/16/2026,26-Sep,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Murtaza Khan Travel Claim,Paid,Meals,6000,9/16/2026,26-Sep,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Meals,2000,9/16/2026,26-Sep,11-701-ADM1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,M. Asif Khan Travel Claim,Paid,Meals,2000,9/16/2026,26-Sep,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Accommodation,2000,9/16/2026,26-Sep,11-701-ADM1-H119001-201-ISB-11-310-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Accommodation,2000,9/16/2026,26-Sep,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Asif Hussain Travel Claim,Paid,Meals,12000,9/16/2026,26-Sep,11-701-ADM1-H119003-301-ISB-11-211-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,CEO Travel Claim,Ready for payment,Meals,219776,,26-Sep,11-701-CEO1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,CEO Travel Claim,Ready for payment,Meals,164834,,26-Sep,11-701-CEO1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,CEO Travel Claim,Ready for payment,Meeting & Conferences,71955,,26-Sep,11-701-CEO1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Ready for payment,Accommodation,5000,,26-Oct,11-701-ADM1-H119001-201-ISB-11-310-ID1-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Wajid Travel Claim,Ready for payment,Accommodation,5000,,26-Oct,11-701-ADM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ KRN STAFF,Wajid Travel Claim,Ready for payment,Meals,12000,,26-Oct,11-701-ADM1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Ready for payment,Meals,12000,,26-Oct,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,CEO Travel Claim,Ready for payment,Meals,18000,,26-Oct,11-701-CEO1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Murtaza Khan Travel Claim,Ready for payment,Meals,2000,,26-Oct,11-701-ADM1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Murtaza Khan Travel Claim,Ready for payment,Meals,2000,,26-Oct,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Usman Ahmed Travel Claim,Ready for payment,Meals,3000,,26-Oct,11-701-ADM1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Usman Ahmed Travel Claim,Ready for payment,Meals,3000,,26-Oct,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Ready for payment,Meals,2000,,26-Oct,11-701-ADM1-H119003-201-ISB-11-310-ID1-0000-00,H119003,Perdiem
+ KRN STAFF,Wajid Travel Claim,Ready for payment,Meals,2000,,26-Oct,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Hasan Saeed,Communication Allowance July 2026,Paid,Internet,1450,8/31/2026,26-Jul,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance July 2026,Paid,Internet,1450,8/31/2026,26-Jul,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance July 2026,Paid,Phone Bill,800,8/31/2026,26-Jul,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance July 2026,Paid,Phone Bill,800,8/31/2026,26-Jul,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance August 2026,Paid,Internet,1500,8/31/2026,26-Aug,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance August 2026,Paid,Internet,1500,8/31/2026,26-Aug,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance August 2026,Paid,Phone Bill,750,8/31/2026,26-Aug,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance August 2026,Paid,Phone Bill,750,8/31/2026,26-Aug,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Travel Allowance Karachi August 2026,Paid,Meals,36000,8/31/2026,26-Aug,11-302-KNM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Hasan Saeed,Communication Allowance September 2026,Paid,Internet,1500,9/16/2026,26-Sep,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance September 2026,Paid,Internet,1500,9/16/2026,26-Sep,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance September 2026,Paid,Phone Bill,750,9/16/2026,26-Sep,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance September 2026,Paid,Phone Bill,750,9/16/2026,26-Sep,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Training Reimbursement  2026,Paid,Staff Training,14000,9/16/2026,26-Sep,11-302-KNM1-H215003-401-ISB-11-511-000-0000-00,H215003,Staff training - Payable
+ Hasan Saeed,Travel Reimbursement Sialkot & Gujrat 2026,Paid,Accommodation,46400,9/16/2026,26-Sep,11-301-KNM1-H119001-401-ISB-11-511-000-0000-00,H119001,Boarding & Lodging
+ Hasan Saeed,Travel Reimbursement Sialkot & Gujrat 2026,Paid,Meals,18000,9/16/2026,26-Sep,11-302-KNM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Hasan Saeed,Travel Reimbursement Lahore 2026,Paid,Meals,36000,9/30/2026,26-Sep,11-302-KNM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Hasan Saeed,Communication Allowance October 2026,Ready for payment,Internet,1500,,26-Oct,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance October 2026,Ready for payment,Internet,1500,,26-Oct,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance October 2026,Ready for payment,Phone Bill,750,,26-Oct,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Hasan Saeed,Communication Allowance October 2026,Ready for payment,Phone Bill,750,,26-Oct,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - July 2026,Paid,Internet,1286.95,8/31/2026,26-Jul,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - July 2026,Paid,Internet,2390.05,8/31/2026,26-Jul,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - July 2026,Paid,Phone Bill,1163.05,8/31/2026,26-Jul,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - July 2026,Paid,Phone Bill,2159.95,8/31/2026,26-Jul,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - August 2026,Paid,Internet,1111.95,9/16/2026,26-Jul,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - August 2026,Paid,Internet,2065.05,9/16/2026,26-Jul,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - August 2026,Paid,Phone Bill,1338.05,9/16/2026,26-Jul,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - August 2026,Paid,Phone Bill,2484.95,9/16/2026,26-Jul,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - September 2026,Ready for payment,Internet,2450,,26-Oct,11-701-RSK1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Saleem,Communication Allowance - September 2026,Ready for payment,Internet,4550,,26-Oct,11-701-RSK1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Samia Salik,Staff Training Reimbursement (3/3 HBS Accion),Paid,Staff Training,1453363,9/16/2026,26-Sep,11-201-DFS1-H215003-201-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Samia Salik,London Trip - BISP/Gates workshop,Partially paid,Air ticket,111112,,26-Oct,11-201-DFS1-D108008-201-ISB-11-313-DP1-0000-00,D108008,"W5: Technical Advisory, Industry/International Expert Engagement, Learning/Networking Events"
+ Samia Salik,London Trip - BISP/Gates workshop,Partially paid,Meals,221881.25,,26-Oct,11-201-DFS1-H119003-201-ISB-11-313-DP1-0000-00,H119003,Perdiem
+ Samia Salik,London Trip - BISP/Gates workshop,Partially paid,Road Transportation,46766.75,,26-Oct,11-201-DFS1-D108008-201-ISB-11-313-DP1-0000-00,D108008,"W5: Technical Advisory, Industry/International Expert Engagement, Learning/Networking Events"
+ Agha Salman,Travelling Allowance,Paid,Meals,6300,8/31/2026,26-Jul,11-701-INA1-H104001-201-ISB-11-311-000-0000-00,H104001,Travel
+ Agha Salman,Travelling Allowance,Paid,Meals,11700,8/31/2026,26-Jul,11-701-INA1-H104001-401-ISB-11-511-000-0000-00,H104001,Travel
+ Agha Salman,Communication Allowance,Paid,Internet,700,8/31/2026,26-Aug,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Internet,1300,8/31/2026,26-Aug,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Phone Bill,1750,8/31/2026,26-Aug,11-701-INA1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Phone Bill,3250,8/31/2026,26-Aug,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Phone Bill,875,8/31/2026,26-Aug,11-701-INA1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Phone Bill,1625,8/31/2026,26-Aug,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Fuel Reimbursement,Paid,Vehicle Operations,2992.5,9/16/2026,26-Sep,11-701-INA1-H106007-201-ISB-11-311-000-0000-00,H106007,Fuel reimbursement
+ Agha Salman,Fuel Reimbursement,Paid,Vehicle Operations,5557.5,9/16/2026,26-Sep,11-701-INA1-H106007-401-ISB-11-511-000-0000-00,H106007,Fuel reimbursement
+ Agha Salman,Wellness Allowance,Paid,Wellness Allowance,7800,9/16/2026,26-Sep,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Wellness Allowance,Paid,Wellness Allowance,4200,9/16/2026,26-Sep,11-701-INA1-h106008-201-ISB-11-311-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Agha Salman,Wellness Allowance,Paid,Wellness Allowance,5850,9/16/2026,26-Sep,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Wellness Allowance,Paid,Wellness Allowance,3150,9/16/2026,26-Sep,11-701-INA1-h106008-201-ISB-11-311-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Agha Salman,Communication Allowance,Paid,Internet,700,9/30/2026,26-Sep,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Internet,1300,9/30/2026,26-Sep,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Phone Bill,1750,9/30/2026,26-Sep,11-701-INA1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Paid,Phone Bill,3250,9/30/2026,26-Sep,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Wellness Allowance,Ready for payment,Wellness Allowance,4200,,26-Oct,11-701-INA1-h106008-201-ISB-11-311-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Agha Salman,Wellness Allowance,Ready for payment,Wellness Allowance,7800,,26-Oct,11-701-INA1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Agha Salman,Communication Allowance,Ready for payment,Internet,700,,26-Oct,11-701-INA1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Ready for payment,Internet,1300,,26-Oct,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Ready for payment,Phone Bill,1750,,26-Oct,11-701-INA1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Agha Salman,Communication Allowance,Ready for payment,Phone Bill,3250,,26-Oct,11-701-INA1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Agha Salman,Staff Training,Ready for payment,Staff Training,25532,,26-Oct,11-701-INA1-H215003-501-ISB-11-511-000-0000-00,H215003,Staff training - Payable
+ Huma Sattar,Communication Expenses- July,Paid,Internet,1879,8/31/2026,26-Jul,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communication Expenses- July,Paid,Internet,1879,8/31/2026,26-Jul,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communication Expenses- July,Paid,Phone Bill,1050,8/31/2026,26-Jul,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communication Expenses- July,Paid,Phone Bill,1050,8/31/2026,26-Jul,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Travel allowance- Karachi 2026,Paid,Accommodation,25000,9/16/2026,26-Sep,11-302-KNM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Huma Sattar,Travel allowance- Karachi 2026,Paid,Meals,36000,9/16/2026,26-Sep,11-302-KNM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Huma Sattar,Communications Expense- August,Ready for payment,Internet,1879,,26-Sep,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications Expense- August,Ready for payment,Internet,1879,,26-Sep,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications Expense- August,Ready for payment,Phone Bill,1050,,26-Sep,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications Expense- August,Ready for payment,Phone Bill,1050,,26-Sep,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications expense- September,Ready for payment,Internet,1879,,26-Sep,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications expense- September,Ready for payment,Internet,1879,,26-Sep,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications expense- September,Ready for payment,Phone Bill,1050,,26-Sep,11-302-KNM1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Huma Sattar,Communications expense- September,Ready for payment,Phone Bill,1050,,26-Sep,11-302-KNM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Awais Shafi,International Training- Per Diem,Paid,Staff Training,194106.5,8/31/2026,26-Aug,11-000-0000-H215003-501-ISB-11-000-000-0000-00,H215003,Staff training - Payable
+ Awais Shafi,Per diem - Travel to SBP Karachi,Paid,Meals,18000,9/16/2026,26-Sep,11-701-PRC1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ Awais Shafi,Communication Allowance - June to August 2026,Paid,Internet,10600,9/16/2026,26-Sep,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Shah,Communication reimbursement,Paid,Internet,6998,8/31/2026,26-Jul,11-701-PRC1-H106003-201-ISB-11-311-DP1-0000-00,H106003,Communication reimbursement
+ Muhammad Shah,Communication reimbursement,Paid,Internet,4603,8/31/2026,26-Aug,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Shah,Communication reimbursement,Paid,Phone Bill,1778,8/31/2026,26-Aug,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Shah,Remaining 20% per diem amount,Paid,Meals,49932,,26-Aug,11-701-PRC1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ Muhammad Shah,Communication Reimbursement,Paid,Internet,4603,9/16/2026,26-Jul,11-701-PRC1-H104001-201-ISB-11-311-ID1-0000-00,H104001,Travel
+ Muhammad Shah,Communication Reimbursement,Paid,Phone Bill,1763,9/16/2026,26-Jul,11-701-PRC1-H104001-201-ISB-11-311-ID1-0000-00,H104001,Travel
+ Muhammad Shah,,Ready for payment,Internet,4603,,26-Oct,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Muhammad Shah,,Ready for payment,Phone Bill,1714,,26-Oct,11-701-PRC1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Nadir Shah,communication,Paid,Internet,3863,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadir Shah,communication,Paid,Phone Bill,3000,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadir Shah,Communication,Paid,Internet,3863,9/30/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadir Shah,Communication,Paid,Phone Bill,3130,9/30/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadir Shah,wellness allowance,Ready for payment,Wellness Allowance,24000,,26-Sep,11-101-CIC1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Nadir Shah,Communication Allowance,Ready for payment,Internet,3863,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Nadir Shah,Communication Allowance,Ready for payment,Phone Bill,3000,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Communication Allowance - July 2026,Paid,Other,4958,8/31/2026,26-Jul,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Communication Allowance - July 2026,Paid,Other,4958,8/31/2026,26-Jul,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Reimbursement - Articulate 360,Paid,Office Supplies,166456.98,8/31/2026,26-Jul,11-701-HRM1-H103002-201-ISB-11-000-ID1-0000-00,H103002,Capacity Building
+ Umber Shakeel,Reimbursement - Articulate 360,Paid,Office Supplies,166456.98,8/31/2026,26-Jul,11-701-HRM1-H103002-401-ISB-11-000-000-0000-00,H103002,Capacity Building
+ Umber Shakeel,Wellness Allowance - Jul 26 - Mar 27,Rejected,Wellness Allowance,50000,,26-Aug,11-701-HRM1-h106008-201-ISB-11-311-ID1-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Umber Shakeel,Wellness Allowance - Jul 26 - Mar 27,Rejected,Wellness Allowance,50000,,26-Aug,11-701-HRM1-h106008-401-ISB-11-511-000-0000-00,h106008,Wellness Allowance (Grade 7-10)
+ Umber Shakeel,Communication Allowance - August 2026,Paid,Other,4813,8/31/2026,26-Aug,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Communication Allowance - August 2026,Paid,Other,4813,8/31/2026,26-Aug,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Reimbursement for Children Goody Basket Items,Paid,Office Supplies,3350,8/31/2026,26-Aug,11-701-ADM1-H116004-201-ISB-11-311-ID1-0000-00,H116004,Office Supplies
+ Umber Shakeel,Reimbursement for Children Goody Basket Items,Paid,Office Supplies,3350,8/31/2026,26-Aug,11-701-ADM1-H116004-401-ISB-11-511-000-0000-00,H116004,Office Supplies
+ Umber Shakeel,Communication Allowance - September 2026,Paid,Other,4808,9/16/2026,26-Sep,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Communication Allowance - September 2026,Paid,Other,4808,9/16/2026,26-Sep,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Cinema-Kar Reimbursement FY 26-27,Paid,Office Supplies,64800,9/16/2026,26-Sep,11-701-HRM1-H126002-201-ISB-11-311-ID1-0000-00,H126002,Employee Engagement
+ Umber Shakeel,Cinema-Kar Reimbursement FY 26-27,Paid,Office Supplies,64800,9/16/2026,26-Sep,11-701-HRM1-H126002-401-ISB-11-511-000-0000-00,H126002,Employee Engagement
+ Umber Shakeel,Communication Allowance - September 2026,Ready for payment,Other,4963,,26-Oct,11-701-HRM1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Communication Allowance - September 2026,Ready for payment,Other,4963,,26-Oct,11-701-HRM1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Umber Shakeel,Reimbursement for Child Birth Gift,Ready for payment,Office Supplies,2865,,26-Oct,11-701-HRM1-H116004-201-ISB-11-311-ID1-0000-00,H116004,Office Supplies
+ Umber Shakeel,Reimbursement for Child Birth Gift,Ready for payment,Office Supplies,2865,,26-Oct,11-701-HRM1-H116004-401-ISB-11-511-000-0000-00,H116004,Office Supplies
+ Minahil Sikandar,Staff Training,Paid,Staff Training,50010,8/31/2026,26-Aug,11-701-CSL1-H215003-501-ISB-11-511-DP1-0000-00,H215003,Staff training - Payable
+ Osama Sohail,Internet - July 2026,Rejected,Internet,2250,,26-Jul,11-101-CIC1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,Internet - July 2026,Rejected,Internet,2250,,26-Jul,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,Internet - August,Rejected,Internet,2250,,26-Aug,11-101-CIC1-H106003-201-ISB-11-311-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,Internet - August,Rejected,Internet,2250,,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,Bag reimbursement,Paid,Office Supplies,5000,8/31/2026,26-Aug,11-101-CIC1-H116004-401-ISB-11-511-000-0000-00,H116004,Office Supplies
+ Osama Sohail,Reimbursement communication bill,Paid,Internet,4500,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,Reimbursement for Communication,Paid,Internet,4500,8/31/2026,26-Aug,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,Reimbursement of communication Bill,Paid,Internet,4500,9/16/2026,26-Sep,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Osama Sohail,,Ready for payment,Internet,4500,,26-Oct,11-101-CIC1-H106003-401-ISB-11-511-000-0000-00,H106003,Communication reimbursement
+ Muhammad Usman,80% per diem of 8 days travel(TRF Attached),Paid,Meals,90208,7/31/2026,26-Jul,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ Muhammad Usman,80% per diem of 8 days travel(TRF Attached),Paid,Meals,90208,7/31/2026,26-Jul,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Muhammad Usman,20% remaining per diem,Paid,Meals,22552,9/16/2026,26-Sep,11-701-ADM1-H119003-201-ISB-11-311-ID1-0000-00,H119003,Perdiem
+ Muhammad Usman,20% remaining per diem,Paid,Meals,22552,9/16/2026,26-Sep,11-701-ADM1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Muhammad Usman,Token Tax of 4 Official Vehicles FY27-2,Paid,Vehicle Operations,33157,9/30/2026,26-Sep,11-701-ADM1-H108002-201-ISB-11-310-ID1-0000-00,H108002,Vehicle Operations
+ Muhammad Usman,Token Tax of 4 Official Vehicles FY27-2,Paid,Vehicle Operations,33157,9/30/2026,26-Sep,11-701-ADM1-H108002-401-ISB-11-511-000-0000-00,H108002,Vehicle Operations
+ Sohail Wajid,Travel Reimbursement,Ready for payment,Meals,36000,,26-Sep,11-101-CIC1-H119003-401-ISB-11-511-000-0000-00,H119003,Perdiem
+ Saad Wasif,Travel to Karachi (Per Diem),Paid,Meals,18000,8/31/2026,26-Jul,11-201-DFS1-H119003-201-ISB-11-310-DT1-0000-00,H119003,Perdiem
+ Sanee Zahra,Travel allowance,Ready for payment,Meals,36000,,26-Sep,11-201-DFS1-H119003-201-ISB-11-312-DT1-0000-00,H119003,Perdiem
+ Zain Zaidi,Communication Allowance June & Jul-26 & Bag re-imbursement,Paid,Internet,4500,8/31/2026,26-Jul,11-701-FIN1-H106003-201-ISB-11-311-ID1-0000-00,H106003,Communication reimbursement
+ Zain Zaidi,Communication Allowance June & Jul-26 & Bag re-imbursement,Paid,Internet,4500,8/31/2026,26-Jul,11-701-FIN1-H106003-401-ISB-11-000-000-0000-00,H106003,Communication reimbursement
+ Zain Zaidi,Communication Allowance June & Jul-26 & Bag re-imbursement,Paid,Office Supplies,2500,8/31/2026,26-Jul,11-701-FIN1-H116004-201-ISB-11-311-ID1-0000-00,H116004,Office Supplies
+ Zain Zaidi,Communication Allowance June & Jul-26 & Bag re-imbursement,Paid,Office Supplies,2500,8/31/2026,26-Jul,11-701-FIN1-H116004-401-ISB-11-000-000-0000-00,H116004,Office Supplies
